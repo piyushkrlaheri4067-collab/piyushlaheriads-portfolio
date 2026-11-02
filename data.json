@@ -1,0 +1,37 @@
+{
+  "brandName": "PIYUSHLAHERIADS",
+  "subtitle": "Digital Creator",
+  "founder": "Piyushkr Laheri",
+  "hubLink": "https://linktr.ee/PIYUSHLAHERIADS",
+  "subBrands": [
+    {
+      "name": "PLA_SOFTWARE_CREATOR",
+      "description": "Ecosystem dedicated to application development. Featuring active projects like PLA Chat, PLA Editz, and custom web operating environments from PLA OS 1.0 to 5.0.",
+      "link": "https://linktr.ee/PLA_SOFTWARE_CREATOR"
+    },
+    {
+      "name": "PLA_CHILDREN_WORLD",
+      "description": "Creative space exploring child-friendly digital layouts and educational elements. Home to interactive concepts like the Children Bank of Children World and Children Bank FAQ platforms.",
+      "link": "https://linktr.ee/PLA_CHILDREN_WORLD"
+    },
+    {
+      "name": "PLA_STUDIO",
+      "description": "Creative asset editing and media laboratory exploring premium content production, dynamic video layouts, and personal creative expressions like Motu Patlu Operation Dhurandhar.",
+      "link": "https://linktr.ee/PLA_STUDIO"
+    }
+  ],
+  "socialLinks": [
+    {
+      "label": "Official Website Hub",
+      "url": "https://linktr.ee/PIYUSHLAHERIADS"
+    },
+    {
+      "label": "YouTube Channel",
+      "url": "https://youtube.com/@piyushlaheriads"
+    },
+    {
+      "label": "Email Address",
+      "url": "mailto:piyushkrlaheri.4067@gmail.com"
+    }
+  ]
+}
